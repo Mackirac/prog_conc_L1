@@ -1,0 +1,6864 @@
+Solução 0:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 2:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 3:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 4:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 5:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 6:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R1+=2; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 7:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 8:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 9:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 10:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 11:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 12:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 13:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 14:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R1+=2; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 15:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 16:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 17:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 18:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 19:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 20:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 21:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 22:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 23:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 24:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 25:
+R1=x; R1+=1; x=R1; R1=x; R1+=2; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 26:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 27:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 28:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 29:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 30:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 31:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 32:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 33:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 34:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 35:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 36:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 37:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 38:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 39:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 40:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 41:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 42:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 43:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 44:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 45:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 46:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 47:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 48:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 49:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 50:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 51:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 52:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 53:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 54:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 55:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 56:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 57:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 58:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 59:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 60:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 61:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 62:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 63:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 64:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 65:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 66:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 67:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 68:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 69:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=1; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 70:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 71:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 72:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 73:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 74:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 75:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 76:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 77:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 5; y: -5
+
+Solução 78:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 79:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 80:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 81:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 82:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 83:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 84:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 85:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 86:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 87:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 88:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 89:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 90:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 91:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=1; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 92:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 93:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 94:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 95:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 96:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 97:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 98:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 99:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 100:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 101:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 102:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 103:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 104:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 105:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 106:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 107:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 108:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 109:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 110:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 111:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 112:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 113:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 114:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 115:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 116:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 117:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 118:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 119:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 120:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 121:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 122:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 123:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 124:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 125:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 126:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 127:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=1; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 128:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 129:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 130:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 131:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 132:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 133:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 134:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 135:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 136:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 137:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 138:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 139:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 140:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 141:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=1; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 142:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 143:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 144:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=1; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 145:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 146:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 147:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 148:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 149:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 150:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 151:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 152:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 153:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 154:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 155:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 156:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 157:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 158:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 159:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 160:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 161:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 162:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 163:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 164:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 165:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=1; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 166:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 167:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 168:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 169:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 170:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 171:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 172:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 173:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 174:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 175:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 176:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 177:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 178:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 179:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 180:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 181:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 182:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 183:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 184:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 185:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 186:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 187:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 188:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 189:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 190:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 191:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 192:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 193:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 194:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 195:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 196:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 197:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 198:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 199:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 200:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 201:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 202:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 203:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 204:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 205:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 206:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 207:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 208:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 209:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=1; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 210:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 211:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 212:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 213:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 214:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 215:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 216:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 217:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 218:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 219:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 220:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 221:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 222:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 223:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 224:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 225:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 226:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 227:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 228:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 229:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 230:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 231:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 232:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 233:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 234:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 235:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=1; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 236:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 237:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 238:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 239:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 240:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 241:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 242:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 243:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 244:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 245:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 246:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 247:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 248:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 249:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 250:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 251:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 252:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 253:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 254:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 255:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 256:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 257:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 258:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 259:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 260:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 261:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 262:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 263:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 264:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 265:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 266:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 267:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 268:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 269:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 270:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=1; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 271:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 272:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -3
+
+Solução 273:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 274:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 275:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 276:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 277:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 278:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 279:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 280:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 281:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 282:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 283:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 5; y: -5
+
+Solução 284:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 285:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 286:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R1+=2; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 287:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 288:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 289:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 290:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 291:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 292:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 293:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 294:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 295:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 296:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 297:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 298:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 299:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 300:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 301:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 302:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 303:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 304:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 305:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 306:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R1+=2; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 307:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 308:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 309:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 310:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 311:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 312:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 313:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 314:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 315:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 316:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 317:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 318:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 319:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 320:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 321:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 322:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 323:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 324:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 325:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 326:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 327:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 328:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 329:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 330:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 331:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=1; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 332:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 333:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 334:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 335:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 336:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 337:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 338:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 339:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 340:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 341:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 342:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=1; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 343:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 344:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 345:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 346:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 347:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 348:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 349:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 350:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 351:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 352:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 353:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 354:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 355:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=1; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 356:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 357:
+R1=x; R1+=1; x=R1; R1=x; R1+=2; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 358:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 359:
+R1=x; R1+=1; x=R1; R1=x; R1+=2; R2=x; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 360:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 361:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 362:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 363:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 364:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 365:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 366:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 367:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 368:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 369:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 370:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 371:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 372:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 373:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 374:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 375:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 376:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 377:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 378:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 379:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 380:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 381:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 382:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 383:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 384:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 385:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 386:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 387:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 388:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 389:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 390:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 391:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 392:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 393:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R1+=2; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 394:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 395:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 396:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 397:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 398:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 399:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 400:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 401:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 402:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 403:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 404:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 405:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 406:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 407:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 408:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 409:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 410:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 411:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 412:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 413:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 414:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 415:
+R1=x; R1+=1; x=R1; R1=x; R1+=2; R2=x; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 416:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 417:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 418:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 419:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 420:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 421:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 422:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 423:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 424:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 425:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 426:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 427:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 428:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 429:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 430:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 431:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 432:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 433:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 434:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 435:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 436:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 437:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 438:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 439:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 440:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 441:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 442:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 443:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 444:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 445:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 446:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R1+=2; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 447:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 448:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 449:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 450:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 451:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 452:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 453:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 454:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 5; y: -5
+
+Solução 455:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 456:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 457:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 458:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 459:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R1+=2; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 460:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 461:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 462:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 463:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 464:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 465:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R1+=2; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 466:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 467:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 468:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 469:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 470:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 471:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 472:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 473:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 474:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 475:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 476:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -3
+
+Solução 477:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 478:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 479:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 480:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 481:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 482:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 483:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 484:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 5; y: -5
+
+Solução 485:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 486:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 487:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 488:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 489:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 490:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 491:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 492:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 493:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 494:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 495:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 496:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 497:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 498:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 499:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 500:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 501:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 502:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 503:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 504:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 505:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 506:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 507:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 508:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 509:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 510:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 511:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 512:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 513:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=1; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 514:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 515:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 516:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 517:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 518:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 519:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 520:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 521:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 522:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 523:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 524:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 525:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 526:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 527:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 528:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 529:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 530:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 531:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 532:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 533:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 534:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 535:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 536:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 537:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 538:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 539:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 540:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 541:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 542:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 543:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 544:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 545:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 546:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 547:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 548:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 549:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 550:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 551:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 552:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 553:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 554:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 555:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=1; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 556:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 557:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 558:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 559:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 560:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 561:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 562:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=1; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 563:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 564:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 565:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 566:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 567:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 568:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 569:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=1; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 570:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 571:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 572:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 573:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 574:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 575:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 576:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 577:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 578:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 579:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 580:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 581:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 582:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 583:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R1+=2; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 584:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 585:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 586:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 587:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 588:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 589:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 590:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 591:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 592:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 593:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 594:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 595:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 596:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 597:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 598:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 599:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 600:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 601:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 602:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 603:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 604:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 605:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 606:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 607:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 608:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 609:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 610:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 611:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 612:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 613:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 614:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 615:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 616:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 617:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=1; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 618:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 619:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=1; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 620:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 621:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 622:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 623:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 624:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 625:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R1+=2; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 626:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 627:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 628:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 629:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 630:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 631:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 632:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 633:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 634:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=1; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 635:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 636:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 637:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 638:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 639:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 640:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 641:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 642:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 643:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 644:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 645:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 646:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 647:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 648:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 649:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 650:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 651:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 652:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 653:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 654:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 655:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 656:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 657:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 658:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 659:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 660:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 661:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 662:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=1; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 663:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 664:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 665:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=1; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 666:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R1+=2; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 667:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 668:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 669:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 670:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 671:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 672:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 673:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 674:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 675:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 676:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 677:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 678:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 679:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 680:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 681:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 682:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 683:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 684:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 685:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 686:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 687:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 688:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 689:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 690:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 691:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 692:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 693:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -2
+
+Solução 694:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 695:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 696:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 697:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 698:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 699:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 700:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 701:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 702:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 703:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=1; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 704:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 705:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 706:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 707:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 708:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 709:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 710:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 711:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 712:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 713:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 714:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 715:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 716:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 717:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 718:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 719:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 720:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 721:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 722:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 723:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 724:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 725:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R1+=2; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 726:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 727:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 728:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=1; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 729:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 730:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 731:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 732:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 733:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 734:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R1+=2; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 735:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 736:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 737:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 738:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 739:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 740:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 741:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 742:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 743:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 744:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 745:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 746:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 747:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 748:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 749:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 750:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 751:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 752:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 753:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 754:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 755:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 756:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 757:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 758:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 759:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 760:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 761:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 762:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 763:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 764:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 765:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 766:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 767:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 768:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 769:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 770:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 771:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 772:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 773:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 774:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 775:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=1; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 776:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 777:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 778:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 779:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 780:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 781:
+R1=x; R1+=1; x=R1; R1=x; R1+=2; R2=x; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 782:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 783:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 784:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 785:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 786:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 787:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 788:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 789:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 790:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 791:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 792:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 793:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 794:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 795:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 796:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 797:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 798:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 799:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 800:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=1; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 801:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 802:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 803:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 804:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 805:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 806:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 807:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 808:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 809:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 810:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 811:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 812:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 813:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 814:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 815:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 816:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 817:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 818:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 819:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 820:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 821:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 822:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 823:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 824:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 825:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 826:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 827:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 828:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 829:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 830:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 831:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 832:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 833:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 834:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 835:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 836:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 837:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 838:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 839:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 840:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 841:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 842:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 843:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 844:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 845:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 846:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 847:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 848:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 849:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 850:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 851:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 852:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 853:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 854:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 855:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 856:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 857:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 858:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 859:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 860:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 861:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 862:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 863:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 864:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R1+=2; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 865:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 866:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 867:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 868:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 869:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 870:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 871:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 872:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 873:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 874:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 875:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 876:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -2
+
+Solução 877:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 878:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 879:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 880:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 881:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 882:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 883:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 884:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 885:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 886:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 887:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 888:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 889:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 890:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 891:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 892:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 893:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 894:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 895:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 896:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 897:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 898:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 899:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 900:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 901:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 902:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 903:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 904:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 905:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 906:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 907:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 908:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 909:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 910:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 911:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 912:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 913:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 914:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 915:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 916:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 917:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 918:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 919:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 920:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 921:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 922:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 923:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 924:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 925:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 926:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 927:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 928:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 929:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 930:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 931:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 932:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 933:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 934:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 935:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 936:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 937:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 938:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 939:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 940:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 941:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 942:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 943:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 944:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 5; y: -5
+
+Solução 945:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 946:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=1; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 947:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 948:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 949:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 950:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -2
+
+Solução 951:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 952:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 953:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 954:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 955:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 956:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 957:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 958:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 959:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 960:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 961:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 962:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 963:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 964:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 965:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 966:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 967:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=1; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 968:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 969:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 970:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 5; y: -5
+
+Solução 971:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 972:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 973:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 974:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 975:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 976:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 977:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 978:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 979:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 980:
+R1=x; R1+=1; x=R1; R1=x; R1+=2; R2=x; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 981:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 982:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 983:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 984:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R1+=2; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 985:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 986:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 987:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 988:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 989:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 990:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 991:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 992:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 993:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 994:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 995:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 996:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 997:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 998:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 999:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1000:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 1001:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R1+=2; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1002:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1003:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1004:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1005:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1006:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1007:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1008:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1009:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1010:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1011:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1012:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1013:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1014:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1015:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1016:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1017:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 1018:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1019:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1020:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=1; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1021:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1022:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1023:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1024:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1025:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1026:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1027:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1028:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1029:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1030:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1031:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1032:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1033:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1034:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1035:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1036:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1037:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 1038:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1039:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1040:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1041:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1042:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1043:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1044:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1045:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1046:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1047:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1048:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1049:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1050:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1051:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1052:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1053:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1054:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1055:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1056:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1057:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1058:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1059:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1060:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1061:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 1062:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -3
+
+Solução 1063:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1064:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1065:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1066:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1067:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1068:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1069:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1070:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1071:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1072:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 1073:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1074:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1075:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1076:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1077:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1078:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 1079:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1080:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1081:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1082:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1083:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1084:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1085:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1086:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1087:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1088:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1089:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1090:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1091:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1092:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1093:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1094:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1095:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1096:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1097:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1098:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1099:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 1100:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1101:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1102:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1103:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1104:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1105:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1106:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1107:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1108:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1109:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1110:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1111:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1112:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1113:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1114:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1115:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1116:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1117:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1118:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1119:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1120:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1121:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1122:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1123:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1124:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1125:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1126:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=1; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1127:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1128:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1129:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1130:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1131:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1132:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1133:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1134:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1135:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1136:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1137:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1138:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1139:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 1140:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1141:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1142:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1143:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1144:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1145:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1146:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1147:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1148:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1149:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1150:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1151:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1152:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1153:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 1154:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1155:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1156:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1157:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1158:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1159:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1160:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1161:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1162:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1163:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1164:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1165:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1166:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1167:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=1; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1168:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1169:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1170:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1171:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=1; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1172:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1173:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 5; y: -5
+
+Solução 1174:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 1175:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1176:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 1177:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 1178:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1179:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1180:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1181:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1182:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1183:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1184:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=1; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1185:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1186:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1187:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1188:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1189:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1190:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1191:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1192:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 1193:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1194:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 5; y: -5
+
+Solução 1195:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1196:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1197:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1198:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1199:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1200:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1201:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1202:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1203:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1204:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1205:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 1206:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1207:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1208:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1209:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1210:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; R1+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1211:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1212:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1213:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1214:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1215:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1216:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1217:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1218:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -2
+
+Solução 1219:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1220:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 1221:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1222:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1223:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1224:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=1; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 1225:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 1226:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1227:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1228:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 1229:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1230:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1231:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 1232:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1233:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1234:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1235:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1236:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1237:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1238:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 5; y: -5
+
+Solução 1239:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1240:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1241:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1242:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1243:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 5; y: -5
+
+Solução 1244:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1245:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1246:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 1247:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1248:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1249:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1250:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1251:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1252:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1253:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1254:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1255:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1256:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1257:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 1258:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1259:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1260:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1261:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1262:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1263:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 1264:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1265:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1266:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1267:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1268:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1269:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1270:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1271:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1272:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1273:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1274:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1275:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1276:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1277:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1278:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1279:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -2
+
+Solução 1280:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1281:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=1; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1282:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1283:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 1284:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1285:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1286:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1287:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1288:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1289:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1290:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1291:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1292:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R1+=2; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1293:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1294:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1295:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R2+=2; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 1296:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1297:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1298:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1299:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1300:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1301:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1302:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1303:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1304:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1305:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1306:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=1; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 1307:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1308:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1309:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1310:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1311:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1312:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1313:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1314:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1315:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1316:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1317:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1318:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1319:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 1320:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1321:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1322:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 1323:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1324:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1325:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 1326:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1327:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1328:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 5; y: -5
+
+Solução 1329:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1330:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 1331:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1332:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1333:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1334:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1335:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1336:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1337:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 1338:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1339:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 1340:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1341:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 1342:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1343:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1344:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1345:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1346:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1347:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1348:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1349:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1350:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1351:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1352:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1353:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1354:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1355:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1356:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1357:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1358:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1359:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1360:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 1361:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1362:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1363:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1364:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1365:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1366:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1367:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 1368:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 1369:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1370:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1371:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 1372:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1373:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1374:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1375:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 1376:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 1377:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1378:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1379:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1380:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1381:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1382:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1383:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1384:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 1385:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1386:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1387:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1388:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1389:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1390:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 1391:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 1392:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1393:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1394:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1395:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1396:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 1397:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1398:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1399:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 1400:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1401:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1402:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1403:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1404:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1405:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1406:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1407:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1408:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1409:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1410:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=1; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1411:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1412:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1413:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1414:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1415:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 1416:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1417:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1418:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1419:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 1420:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=1; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 1421:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1422:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1423:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=1; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1424:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -3
+
+Solução 1425:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 1426:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1427:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1428:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1429:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1430:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1431:
+R1=x; R1+=1; x=R1; R1=x; R1+=2; R2=x; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1432:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1433:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 1434:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1435:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1436:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1437:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1438:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1439:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1440:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R1+=2; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 1441:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1442:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1443:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1444:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1445:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 1446:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1447:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1448:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1449:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1450:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1451:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1452:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 1453:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1454:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1455:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1456:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1457:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1458:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=1; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1459:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1460:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1461:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1462:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1463:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1464:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1465:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1466:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 1467:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1468:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1469:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1470:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1471:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1472:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1473:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1474:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1475:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1476:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1477:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1478:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1479:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1480:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1481:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1482:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1483:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1484:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1485:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1486:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R1+=2; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 1487:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 1488:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1489:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1490:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1491:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1492:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1493:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1494:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1495:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1496:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 1497:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1498:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1499:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1500:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1501:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1502:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1503:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1504:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1505:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1506:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1507:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1508:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1509:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1510:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1511:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1512:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1513:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1514:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1515:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1+=1; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1516:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 1517:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1518:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1519:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 1520:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 1521:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1522:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1523:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1524:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1525:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=1; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 1526:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1527:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1528:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1529:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1530:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1531:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1532:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1533:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1534:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1535:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1536:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1537:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1538:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1539:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1540:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1541:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1542:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1543:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1544:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1545:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 4; y: -2
+
+Solução 1546:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1547:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1548:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1549:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1550:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1551:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1552:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1553:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1554:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 1555:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=1; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 1556:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1557:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1558:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1559:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1560:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1561:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1562:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1563:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1564:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1565:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; x=R2; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 1566:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1567:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1568:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1569:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1570:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1571:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1572:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R2+=2; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1573:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1574:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1575:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 1576:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1577:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1578:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1579:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1580:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R1+=2; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1581:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1582:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1583:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1584:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1585:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1586:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1587:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1588:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1589:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 1590:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; R2-=R3; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1591:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1592:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R1+=2; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1593:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1594:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1595:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=1; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1596:
+R1=x; R2=x; R1+=1; x=R1; R1=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1597:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1598:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1599:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=1; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1600:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1601:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1602:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; R2-=R3; x=R1; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1603:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1604:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1605:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1606:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1607:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1608:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1609:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 1610:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1611:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1612:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; R2-=R3; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1613:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1614:
+R1=x; R1+=1; x=R1; R1=x; R2=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1615:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1616:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 1617:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 1618:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1619:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1620:
+R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=1; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 1621:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; R1+=2; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1622:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1623:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1624:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1625:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1626:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1627:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; R2-=R3; y=R2; x=R1; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1628:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 1629:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R1=x; R2-=R3; R1+=1; x=R1; R1=x; y=R2; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1630:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1631:
+R2=x; R1=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1632:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1633:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1634:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1635:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R1+=1; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1636:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1637:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1638:
+R1=x; R1+=1; x=R1; R1=x; R1+=2; x=R1; R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 5; y: -5
+
+Solução 1639:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1640:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1641:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1642:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1643:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; x=R1; R2-=R3; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 1644:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; x=R2; R1=x; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1645:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 5; y: -2
+
+Solução 1646:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1647:
+R1=x; R1+=1; x=R1; R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -3
+
+Solução 1648:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1649:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R1+=2; R2=y; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1650:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1651:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1652:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -2
+
+Solução 1653:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1654:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R1=x; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 5; y: -3
+
+Solução 1655:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1656:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R1+=2; R2+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1657:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1658:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1659:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1660:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1661:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1662:
+R1=x; R2=x; R1+=1; R2+=2; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1663:
+R2=x; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=1; x=R1; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1664:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 5; y: -3
+
+Solução 1665:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 5; y: -2
+
+Solução 1666:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; R1=x; x=R2; R2=y; R3=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1667:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R1+=2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1668:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1669:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 4; y: -2
+
+Solução 1670:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1671:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R2=y; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1672:
+R1=x; R1+=1; R2=x; x=R1; R1=x; R2+=2; R1+=2; x=R2; R2=y; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1673:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1674:
+R1=x; R2=x; R2+=2; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1675:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R2-=R3; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1676:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1677:
+R1=x; R1+=1; R2=x; R2+=2; x=R1; R1=x; R1+=2; x=R1; x=R2; R2=y; R3=x; R2-=R3; y=R2; 
+x: 2; y: -2
+
+Solução 1678:
+R2=x; R1=x; R1+=1; x=R1; R1=x; R2+=2; x=R2; R2=y; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1679:
+R2=x; R1=x; R1+=1; x=R1; R2+=2; R1=x; R1+=2; x=R2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1680:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1681:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; R2-=R3; x=R1; y=R2; R1=x; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1682:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1683:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1684:
+R1=x; R2=x; R2+=2; x=R2; R2=y; R1+=1; x=R1; R1=x; R3=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1685:
+R1=x; R2=x; R1+=1; R2+=2; x=R2; R2=y; x=R1; R1=x; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1686:
+R1=x; R2=x; R1+=1; x=R1; R2+=2; x=R2; R1=x; R2=y; R3=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1687:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1688:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R3=x; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1689:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1690:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1691:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; x=R1; R1=x; R1+=2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1692:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1693:
+R2=x; R2+=2; R1=x; R1+=1; x=R1; R1=x; x=R2; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1694:
+R2=x; R2+=2; R1=x; R1+=1; x=R2; R2=y; x=R1; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1695:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; x=R1; R2=y; R1=x; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1696:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; x=R1; y=R2; 
+x: 5; y: -3
+
+Solução 1697:
+R2=x; R2+=2; x=R2; R2=y; R1=x; R1+=1; x=R1; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1698:
+R2=x; R2+=2; x=R2; R2=y; R3=x; R2-=R3; R1=x; R1+=1; x=R1; R1=x; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 1699:
+R2=x; R2+=2; R1=x; x=R2; R1+=1; R2=y; x=R1; R3=x; R1=x; R1+=2; R2-=R3; x=R1; y=R2; 
+x: 3; y: -1
+
+Solução 1700:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; R2=y; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
+Solução 1701:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; R1=x; R1+=2; x=R2; R2=y; x=R1; R3=x; R2-=R3; y=R2; 
+x: 3; y: -3
+
+Solução 1702:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R1=x; R1+=2; x=R1; R2=y; R3=x; R2-=R3; y=R2; 
+x: 4; y: -4
+
+Solução 1703:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1704:
+R2=x; R1=x; R2+=2; R1+=1; x=R1; R1=x; x=R2; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 3; y: -2
+
+Solução 1705:
+R2=x; R2+=2; x=R2; R1=x; R1+=1; R2=y; R3=x; x=R1; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 5; y: -2
+
+Solução 1706:
+R2=x; R1=x; R1+=1; R2+=2; x=R2; x=R1; R1=x; R2=y; R1+=2; R3=x; x=R1; R2-=R3; y=R2; 
+x: 3; y: -1
+
+Solução 1707:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; R2=y; R3=x; x=R1; R2-=R3; R1=x; y=R2; R1+=2; x=R1; 
+x: 3; y: -2
+
+Solução 1708:
+R2=x; R1=x; R2+=2; R1+=1; x=R2; x=R1; R1=x; R2=y; R3=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1709:
+R2=x; R1=x; R2+=2; x=R2; R2=y; R1+=1; R3=x; x=R1; R2-=R3; R1=x; R1+=2; x=R1; y=R2; 
+x: 3; y: -2
+
+Solução 1710:
+R1=x; R2=x; R2+=2; R1+=1; x=R2; x=R1; R2=y; R1=x; R3=x; R2-=R3; y=R2; R1+=2; x=R1; 
+x: 3; y: -1
+
+Solução 1711:
+R1=x; R1+=1; R2=x; R2+=2; x=R2; x=R1; R2=y; R3=x; R1=x; R2-=R3; R1+=2; y=R2; x=R1; 
+x: 3; y: -1
+
+Solução 1712:
+R1=x; R1+=1; x=R1; R2=x; R2+=2; x=R2; R1=x; R2=y; R1+=2; R3=x; R2-=R3; y=R2; x=R1; 
+x: 5; y: -3
+
+Solução 1713:
+R1=x; R1+=1; R2=x; x=R1; R2+=2; x=R2; R2=y; R1=x; R1+=2; R3=x; R2-=R3; x=R1; y=R2; 
+x: 4; y: -2
+
+Solução 1714:
+R1=x; R2=x; R2+=2; R1+=1; x=R1; x=R2; R2=y; R3=x; R1=x; R1+=2; R2-=R3; y=R2; x=R1; 
+x: 4; y: -2
+
+Solução 1715:
+R2=x; R1=x; R2+=2; x=R2; R1+=1; R2=y; R3=x; x=R1; R1=x; R1+=2; x=R1; R2-=R3; y=R2; 
+x: 3; y: -2
+
